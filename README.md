@@ -10,3 +10,5 @@ Skills demonstrated in this project:
 -Creating links between pages
 -Organizing files and folders
 -Using Git and GitHub for version control
+
+Ive already gained some experience with freecodingcampg, so this project was great help for me to work with Git and GitHub. I hope in the future i can look back to here.
